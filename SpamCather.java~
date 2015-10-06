@@ -1,0 +1,14 @@
+/* 
+ * Project: SpamCatcher.java
+ * Description: A program to catch spammy email.
+ * Name: Hanmin Yun
+ * Date: Oct 6, 2015
+ */
+
+public class SpamCather {
+
+  public static void main( String[] args ) {
+    
+  } // end main method
+  
+} // end class
