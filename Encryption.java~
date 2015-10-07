@@ -1,0 +1,26 @@
+/*
+ * Encryption.java
+ */
+
+public class Encryption {
+
+  // constructor method
+  public Encryption() {
+    
+  }
+  
+  // encrypt() method accepts a String and returns babble
+  public String encrypt( String msg ) {
+   
+    return msg;
+    
+  }
+  
+  // decrypt() method accepts babble and returns a good String
+  public String decrypt( String msg ) {
+   
+    return msg;
+    
+  }
+  
+} // end class
